@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>22 April, 1647. Remedies for removing some obstructions in church-government. Ordered by the Commons assembled in Parliament, that these remedies for removing some obstructions in church-government, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83816</idno><idno type="EEBO-CITATION">99861969</idno>
+  <idno type="VID">114115</idno>
+  <idno type="EEBO-PROQUEST">2240938904</idno>
+  
+            <idno type="STC">Wing E2700</idno>
+            <idno type="STC">Thomason E385_14</idno>
+            <idno type="STC">ESTC R201464</idno>
+            <idno type="PROQUEST">99861969</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861969e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114115)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>22 April, 1647. Remedies for removing some obstructions in church-government. Ordered by the Commons assembled in Parliament, that these remedies for removing some obstructions in church-government, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>April 30. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Resolutions of the House of Commons"--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Church polity --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114115:1"/>
+            <pb facs="tcp:114115:1"/>
+            <p> 22 <hi>April,</hi> 1647.</p>
+            <p>REMEDIES For removing some OBSTRUCTIONS IN Church-government.</p>
+            <p>
+               <hi>ORdered by the Commons assembled in Parlia<g ref="char:EOLhyphen"/>ment, That these</hi> Remedies for removing some Obstructions in Church-Government, <hi>be forthwith printed and published:</hi> H: Elsynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, <hi>April</hi> 30. 1647.</p>
+            <pb facs="tcp:114115:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:114115:2"/>
+            <head>REMEDIES FOR Removing some Obstructions in Church-Government.</head>
+            <opener>Resolved, &amp;c.</opener>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat Letters from the Speakers of both Hou<g ref="char:EOLhyphen"/>ses be sent into all coun<g ref="char:EOLhyphen"/>ties (from whence no return hath been certified) That their respective Counties be divided into distinct Classes, and the same certified forthwith, with the Names of Mini<g ref="char:EOLhyphen"/>sters and others fit to be of each Clas<g ref="char:EOLhyphen"/>sis, according to the Ordinance.</p>
+            <p n="2">2. That such returns from any of
+<pb n="4" facs="tcp:114115:3"/> the Counties as are already made▪ or shall hereafter be made, be referred to be considered of by the Committee of Lords and Commons for judging of Scandal; and that so soon as such returns shall be made, the Speakers of both Houses do send the said returns to the said Committee accordingly; and that such being by them considered of &amp; alowed, shall have power to act ac<g ref="char:EOLhyphen"/>cording to Ordinances of Parliament.</p>
+            <p n="3">3. That the several Classes consti<g ref="char:EOLhyphen"/>tuted by Parliament, in the several Counties within the Limits of the said respective Classes, where no Congre<g ref="char:EOLhyphen"/>gational Presbyteries are already set<g ref="char:EOLhyphen"/>led, shall have from time to time po<g ref="char:EOLhyphen"/>wer to nominate such Ministers and others as are qualified according to the Ordinance, to joyn with them in the
+<pb n="5" facs="tcp:114115:3"/> same, to be approved by the Commit<g ref="char:EOLhyphen"/>tee of Lords &amp; Commons appointed to judge of Scandal, until such time as Congregational Presbyteries shall be setled within the said respective Pre<g ref="char:EOLhyphen"/>cincts: And when the said Congre<g ref="char:EOLhyphen"/>gational Presbyteries shall be setled within the said Limits, That then the said Congregational Presbyteries shall act according to the power and directions of the Ordinance in that behalf; And that such power shall be executed, not onely in cases of death, or other departure of any Minister or Elder from the place of their wonted dwelling, but also in case of increase of Ministers and Congregational El<g ref="char:EOLhyphen"/>derships in their several precincts.</p>
+            <p n="4">4. That at any such time as seven Congregational Elderships, or more,
+<pb n="6" facs="tcp:114115:4"/> shall be constituted in any Classical precinct in any of the counties, by the respective Classes established by <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> the same shall by them be sig<g ref="char:EOLhyphen"/>nified to the several Congregational Elderships so established; and the said Congregational Elderships shal forth<g ref="char:EOLhyphen"/>with proceed to depute such of their Elders as are most fit, who together with their Ministers (according to the Ordinance of <hi>Parliament)</hi> shall meet as a Classis, and shall be, to all intents and purposes, thenceforth the Classis of that precinct, and execute all power belonging to such or any former Classis; and the Classis formerly con<g ref="char:EOLhyphen"/>stituted by <hi>Parliament,</hi> shall cease as to that precinct.</p>
+            <p n="5">5. That the Elders of the Classis of the Province of <hi>London,</hi> shall hold
+<pb n="7" facs="tcp:114115:4"/> their Provincial Assembly in the Convocation-house at <hi>Pauls</hi> Church in <hi>London,</hi> upō the first <hi>Monday</hi> in <hi>May</hi> next ensuing, and may adjourn their meeting <hi>de die in diem,</hi> and conclude their meeting with Adjournment unto the next opportunity, accor<g ref="char:EOLhyphen"/>ding to the Ordinance of <hi>Parlia<g ref="char:EOLhyphen"/>ment:</hi> And that no Act shall passe or be valid in the said Province of <hi>London,</hi> but what shall be done by the Number of Six and thirty pre<g ref="char:EOLhyphen"/>sent, or the major part of them, whereof Twelve to be Ministers, and Four and twenty to be Ruling-Elders; and that the first meeting of the Provincial Assemblies in the seve<g ref="char:EOLhyphen"/>ral counties, be appointed by the Committee of Lords and Commons aforesaid, and may adjourn as afore<g ref="char:EOLhyphen"/>said;
+<pb n="8" facs="tcp:114115:5"/> who are to appoint the number of which each Province shall consist▪ and the <hi>Quorum</hi> that shall act in each Province.</p>
+            <p n="6">6. That in the Classical meeting of all Classes, that which shall be done by the major part present, shall be esteem<g ref="char:EOLhyphen"/>ed as the act of the whole Classical number; and the same to hold in the city of <hi>London</hi> in their meeting of Try<g ref="char:EOLhyphen"/>ers, and in all their Classical meetings, and in the several counties; and that no act done by any Classis shall be va<g ref="char:EOLhyphen"/>lid and good, unless it be done by the number of fifteen present, or the ma<g ref="char:EOLhyphen"/>jor part of them, whereof five to be Ministers, and ten to be Ruling-El<g ref="char:EOLhyphen"/>ders.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
